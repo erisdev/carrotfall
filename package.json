@@ -1,0 +1,17 @@
+{
+  "name": "carrotfall",
+  "version": "0.0.0",
+  "description": "Carrots that fall.",
+  "main": " ",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script-redux": "~2.0.0-beta8"
+  },
+  "scripts": {},
+  "keywords": [
+    "three.js"
+  ],
+  "authors": [
+    "Eris <eris.discord@gmail.com>"
+  ]
+}
